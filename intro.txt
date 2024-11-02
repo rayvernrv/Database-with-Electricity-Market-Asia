@@ -1,0 +1,11 @@
+CS50's Introduction to Databases with SQL
+
+Project Title: Database for Electricity Market in Asia
+
+Name: Ray Vern Quah
+
+Github/edX usernames: rayvernrv
+
+City/Country: Penang, Malaysia
+
+Date of recording: 2nd November 2024
